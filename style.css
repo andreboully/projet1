@@ -73,6 +73,15 @@ background-size: cover;
   header{
   background-image: url(assets/metalimage1.jpeg);
   }
+  button{
+    color: black;
+  background-color: beige;}
   .grid :hover{
   background-image: url(assets/metalimage1.jpeg);
+
   }
+  footer{
+    display: flex;
+      justify-content: center;
+      gap: 120px;
+  background-color: crimson;}
