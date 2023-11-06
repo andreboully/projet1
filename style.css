@@ -53,9 +53,11 @@ html {
       gap: 120px;
   
   }
-  .texte4{
-    
+  main{
+background-image: url(assets/logosmetal.jpg);
 }
+
+  
 
   .image{
       display: flex;
@@ -63,6 +65,12 @@ html {
       gap: 100px;
   
   }
+  .image1{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+
+}
   header{
   background-image: url(assets/metalimage1.jpeg);
   }
