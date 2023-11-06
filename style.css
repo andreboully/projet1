@@ -54,10 +54,9 @@ html {
   
   }
   main{
-background-image: url(assets/logosmetal.jpg);
+background-image: url(assets/hellfestlogo.jpg1.jpg);
+background-size: cover;
 }
-
-  
 
   .image{
       display: flex;
