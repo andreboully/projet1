@@ -2,6 +2,7 @@ html {
     height: 100%;
     width: 100%;
   }
+ 
   h1{
   color: black;
     -webkit-text-stroke: 2px;
@@ -26,6 +27,7 @@ html {
     display: flex;
     padding-left: 10px;
   }
+  
   h3{
     color: black;
     -webkit-text-stroke: 1px;
@@ -38,6 +40,7 @@ html {
     padding-right: 10px;
     
   }
+
   h5{
   color: white;
   -webkit-text-stroke: 1px;
@@ -49,6 +52,7 @@ html {
     
 
   }
+
   p{
   padding-left: 10px;
   padding-right: 10px;
@@ -64,17 +68,22 @@ html {
     display: flex;
     padding-left: 10px;
   }
+
   .texte3{
       display: flex;
       justify-content: center;
       gap: 120px;
   
   }
+
   .texte5{
-  background-color: black;}
+  background-color: black;
+}
+
   .parti1{
   background-color: black;
 }
+
   .parti2{
   background-color: black;}
 
@@ -82,34 +91,44 @@ html {
 background-image: url(assets/hellfestlogo.jpg1.jpg);
 background-size: cover;
 }
+
 header{
   background-image: url(assets/metalimage1.jpeg);
   }
 
+  body{
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+  }
+
+  footer{
+    display: flex;
+      justify-content: center;
+      gap: 120px;
+  background-color: crimson;
+}
 
   .image{
       display: flex;
       justify-content: center;
       gap: 100px;
-  
   }
+
   .image1{
     display: flex;
     justify-content: center;
     gap: 100px;
-
 }
  
   button{
     color: black;
-  background-color: beige;}
+  background-color: beige;
+}
+
   .grid :hover{
   background-image: url(assets/metalimage1.jpeg);
 
   }
-  footer{
-    display: flex;
-      justify-content: center;
-      gap: 120px;
-  background-color: crimson;}
+  
   
