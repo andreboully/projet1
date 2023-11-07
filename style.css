@@ -38,6 +38,15 @@ html {
     padding-right: 10px;
     
   }
+  h5{
+  color: white;
+  -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: #000000;
+    padding-left: 10px;
+    
+
+  }
+
   .texte2{
     
     text-align: right;
