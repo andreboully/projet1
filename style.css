@@ -52,6 +52,7 @@ html {
   p{
   padding-left: 10px;
   padding-right: 10px;
+ 
 }
 
   .texte2{
@@ -69,10 +70,16 @@ html {
       gap: 120px;
   
   }
+  .texte5{
+  background-color: black;}
   main{
 background-image: url(assets/hellfestlogo.jpg1.jpg);
 background-size: cover;
 }
+header{
+  background-image: url(assets/metalimage1.jpeg);
+  }
+
 
   .image{
       display: flex;
@@ -86,9 +93,7 @@ background-size: cover;
     gap: 100px;
 
 }
-  header{
-  background-image: url(assets/metalimage1.jpeg);
-  }
+ 
   button{
     color: black;
   background-color: beige;}
