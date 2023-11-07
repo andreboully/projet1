@@ -27,7 +27,7 @@ html {
     display: flex;
     padding-left: 10px;
   }
-  
+
   h3{
     color: black;
     -webkit-text-stroke: 1px;
@@ -59,6 +59,7 @@ html {
  
 }
 
+
   .texte2{
     
     text-align: right;
@@ -76,21 +77,23 @@ html {
   
   }
 
-  .texte5{
-  background-color: black;
-}
-
+ 
   .parti1{
-  background-color: black;
-}
-
-  .parti2{
-  background-color: black;}
+    background: rgb(255,255,255);
+background: linear-gradient(180deg, rgba(255,255,255,1) 2%, rgba(84,82,82,1) 20%, rgba(0,0,0,1) 85%);
+  }
+.parti2{
+background-color: #000000;}
 
   .parti3 {
 background-image: url(assets/hellfestlogo.jpg1.jpg);
 background-size: cover;
 }
+.texte5{
+  background: rgb(0,0,0);
+  background: linear-gradient(180deg, rgba(0,0,0,1) 31%, rgba(255,0,0,1) 70%, rgba(255,78,0,1) 90%);
+}
+
 
 header{
   background-image: url(assets/metalimage1.jpeg);
@@ -99,14 +102,16 @@ header{
   body{
     margin: 0;
     padding: 0;
-    background-color: #000000;
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgba(0,0,0,1) 31%, rgba(255,0,0,1) 70%, rgba(255,78,0,1) 90%);
   }
 
   footer{
     display: flex;
       justify-content: center;
       gap: 120px;
-  background-color: crimson;
+  background-image: url(assets/metalfeu.jpeg); 
+  background-size: cover;
 }
 
   .image{
