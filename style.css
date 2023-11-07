@@ -43,9 +43,16 @@ html {
   -webkit-text-stroke: 1px;
     -webkit-text-stroke-color: #000000;
     padding-left: 10px;
+    display: flex;
+    justify-content: center;
+    margin-block: 20px;
     
 
   }
+  p{
+  padding-left: 10px;
+  padding-right: 10px;
+}
 
   .texte2{
     
