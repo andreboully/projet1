@@ -75,6 +75,9 @@ html {
   .parti1{
   background-color: black;}
   .parti2{
+  background-color: black;}
+
+  .parti3 {
 background-image: url(assets/hellfestlogo.jpg1.jpg);
 background-size: cover;
 }
@@ -108,3 +111,4 @@ header{
       justify-content: center;
       gap: 120px;
   background-color: crimson;}
+  
