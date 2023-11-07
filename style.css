@@ -72,7 +72,9 @@ html {
   }
   .texte5{
   background-color: black;}
-  main{
+  .parti1{
+  background-color: black;}
+  .parti2{
 background-image: url(assets/hellfestlogo.jpg1.jpg);
 background-size: cover;
 }
