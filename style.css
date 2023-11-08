@@ -53,6 +53,11 @@ h5 {
 
 
 }
+.texte6{
+  display: flex;
+  justify-content: center;
+  gap: 200px;
+}
 
 p {
   padding-left: 30px;
@@ -143,5 +148,4 @@ button {
 
 .grid :hover {
   background-image: url(assets/metalimage1.jpeg);
-
 }
